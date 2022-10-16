@@ -1,0 +1,15 @@
+{
+    "chart":{
+        "caption":"Data Donasi Tahun 2022",
+        "subCaption":"DIGHELP",
+        "xaxisName":"Bulan",
+        "yAxisName":"Junlah donasi",
+        "theme":"fint"
+    },
+    "data":[
+        {"label":"Januari-Maret","value":"207000"},
+        {"label":"April-Juni","value":"113000"},
+        {"label":"Juli-September","value":"296000"},
+        {"label":"Oktober-Dessember","value":"349000"}
+    ]
+}
